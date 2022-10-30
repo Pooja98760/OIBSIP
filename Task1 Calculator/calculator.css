@@ -1,0 +1,30 @@
+.calculator{
+    margin-left: 30%;
+    width:500px;
+    height:420px;
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: rgb(11, 32, 217);
+    
+}
+.text-centre{
+    text-align: center;
+}
+.mx-auto{
+    margin: auto;
+}
+.m-w-20{
+    max-width: 30vw;
+}
+.flex{
+   display: flex;
+}
+.flex-col{
+   flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+h1{
+    margin-left: 35%;
+}
